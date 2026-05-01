@@ -27,24 +27,7 @@ This project focuses on cleaning, processing, and visualizing traffic accident d
 
 ---
 
-## 📷 Dashboard Preview
-![Dashboard](images/dashboard.png)
 
----
-
-## 📁 Project Structure
-- `data/` → raw and cleaned dataset
-- `notebooks/` → EDA notebook
-- `dashboard/` → Power BI file
-
----
-
-## 🚀 How to Run
-1. Open Jupyter Notebook
-2. Run `eda_analysis.ipynb`
-3. Open Power BI file to view dashboard
-
----
 
 ## 🎯 Outcome
 This project demonstrates data cleaning, visualization, and storytelling skills.
